@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { ROWS, KEYCODES, KC_MAP, U } from '../lib/layout';
 
 const GAP = 3;
@@ -64,20 +64,22 @@ export default function Remap({ hid }) {
   const [layer, setLayer]     = useState(0);
   const [keymaps, setKeymaps] = useState({});
   const [cat, setCat]         = useState('Letters');
-  const [flash, setFlash]     = useState('');
+  const [flash, setFlash]       = useState('');
   const [flashOut, setFlashOut] = useState(false);
+  const t1 = useRef(null), t2 = useRef(null);
 
   const remap = async (label) => {
     if (!sel) return;
-    if (hid.connected) await hid.remapKey(sel.r, sel.c, KC_MAP[label.toUpperCase()] ?? 0);
+    if (hid.connected) await hid.remapKey(layer, sel.r, sel.c, KC_MAP[label.toUpperCase()] ?? 0);
     setKeymaps(p => ({
       ...p,
       [layer]: { ...(p[layer] ?? {}), [sel.r]: { ...(p[layer]?.[sel.r] ?? {}), [sel.c]: label } }
     }));
+    clearTimeout(t1.current); clearTimeout(t2.current);
     setFlash(`${sel.main} → ${label}`);
     setFlashOut(false);
-    setTimeout(() => setFlashOut(true), 1600);
-    setTimeout(() => { setFlash(''); setFlashOut(false); }, 2000);
+    t1.current = setTimeout(() => setFlashOut(true), 1600);
+    t2.current = setTimeout(() => { setFlash(''); setFlashOut(false); }, 2000);
     setSel(null);
   };
 
