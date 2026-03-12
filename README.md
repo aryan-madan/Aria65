@@ -1,14 +1,14 @@
 ![Banner](Assets/meraki65.png)
 
 <p>
-  <img src="assets/image.png" width="49%">
-  <img src="assets/image(1).png" width="49%">
+  <img src="Assets/image.png" width="49%">
+  <img src="Assets/image(1).png" width="49%">
 </p>
 
 ![Bottom](Assets/image(2).png)
 
 <p>
-  <img src="Assets/image(3).png" width="64%">
+  <img src="Assets/image(3).jpeg" width="64%">
   <img src="Assets/image(4).png" width="34%">
 </p>
 
