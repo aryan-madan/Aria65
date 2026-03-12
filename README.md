@@ -25,7 +25,7 @@ The keyboard has a 65% WKL Layout. WKL stands for win-key-less, where the Window
 The Meraki65 uses qmk for its firmware.
 I also created a web-based software to re-map keys, called [Keydeck](https://keydeck.xyz).
 
-![Keydeck Software](image.webp)
+![Keydeck Software](Assets/image.webp)
 
 # Bill of Materials
 
