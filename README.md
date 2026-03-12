@@ -24,6 +24,10 @@ The keyboard has a 65% WKL Layout. WKL stands for win-key-less, where the Window
 
 Total Cost: **8,989** (~$97.71 USD)
 
+## Case
+
+To be 3d printed by the Printing Legion.
+
 ## Parts
 
 | Piece | Brand | Cost (INR) | Cost (USD) | Link |
