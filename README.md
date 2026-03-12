@@ -20,6 +20,13 @@ Meraki, is a greek word that means 'to do something with soul, creativity, or lo
 
 The keyboard has a 65% WKL Layout. WKL stands for win-key-less, where the Windows key is removed from the keyboard, to give it a more symmetrical shape. WKL's are rarely seen in 65% form, which inspired me to make this board. I also opted for a blocker at the top right to fit the MCU.
 
+# Firmware
+
+The Meraki65 uses qmk for its firmware.
+I also created a web-based software to re-map keys, called [Keydeck](https://keydeck.xyz).
+
+![Keydeck Software](image.webp)
+
 # Bill of Materials
 
 Total Cost: **8,989** (~$97.71 USD)
