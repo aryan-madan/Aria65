@@ -1,15 +1,15 @@
-![Banner](assets/meraki65.png)
+![Banner](Assets/meraki65.png)
 
 <p>
   <img src="assets/image.png" width="49%">
   <img src="assets/image(1).png" width="49%">
 </p>
 
-![Bottom](assets/image(2).png)
+![Bottom](Assets/image(2).png)
 
 <p>
-  <img src="assets/image(3).png" width="74%">
-  <img src="assets/image(4).png" width="24%">
+  <img src="Assets/image(3).png" width="64%">
+  <img src="Assets/image(4).png" width="34%">
 </p>
 
 # Name
