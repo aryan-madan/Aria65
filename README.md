@@ -29,7 +29,7 @@ I also created a web-based software to re-map keys, called [Keydeck](https://key
 
 # Bill of Materials
 
-Total Cost: **8,989** (~$97.71 USD)
+Total Cost: **9,393** (~$102.09 USD)
 
 ## Case
 
@@ -49,11 +49,11 @@ To be 3d printed by the Printing Legion.
 
 | Part | Brand | Cost (INR) | Cost (USD) | Link |
 |------|-------|-----------|-----------|------|
-| Printing | JLCPCB | 2750 | ~$29.89 | [Link](https://jlcpcb.com/) |
+| Printing | JLCPCB | 3403 | ~$37.00 | [Link](https://jlcpcb.com/) |
 | RP 2040 Zero | Robu | 235 | ~$2.55 | [Link](https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/) |
 | Hotswap Sockets | Kailh | 532 | ~$5.78 | [Link](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/) |
 | Diodes | — | 100 | ~$1.09 | [Link](https://www.amazon.in/dp/B084ZP5BJ3?ref=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&social_share=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&_encoding=UTF8&psc=1) |
-| **Total** | | **3617** | **~$39.32** | |
+| **Total** | | **4270** | **~$46.42** | |
 
 ## Decoration
 
