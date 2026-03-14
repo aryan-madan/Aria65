@@ -9,7 +9,7 @@
 
 <p>
   <img src="Assets/image(3).jpeg" width="64%">
-  <img src="Assets/image(4).png" width="34%">
+  <img src="Assets/image(1).webp" width="34%">
 </p>
 
 # Name
@@ -27,9 +27,21 @@ I also created a web-based software to re-map keys, called [Keydeck](https://key
 
 ![Keydeck Software](Assets/image.webp)
 
+# PCB
+
+## Schematic
+
+![Schematic](Assets/schem.png)
+
+![Schematic 2](Assets/schem(1).png)
+
+## PCB
+
+![PCB](Assets/pcb.png)
+
 # Bill of Materials
 
-Total Cost: **9,393** (~$102.09 USD)
+Total Cost: **9,792** (~$106.38 USD)
 
 ## Case
 
@@ -41,9 +53,10 @@ To be 3d printed by the Printing Legion.
 |-------|-------|-----------|-----------|------|
 | Plate Mount Stabilizers | Durock | 380 | ~$4.13 | [Link](https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43129560924213) |
 | Y2 Switches | Keygeek | 2240 | ~$24.35 | [Link](https://keyora.store/products/keygeek-y2-linear-switch) |
+| Gummy-O-Ring Mount | NeoMacro | 650 | ~$7.00 | [Link](https://neomacro.in/products/neo65-spare-parts-pre-order?variant=46159065415958) |
 | M2 x 12mm Screws | Generic | — | — | - |
 | M2 x 10mm Screws | Generic | — | — | - |
-| **Total** | | **2872** | **~$31.22** | |
+| **Total** | | **3522** | **~$38.22** | |
 
 ## PCB
 

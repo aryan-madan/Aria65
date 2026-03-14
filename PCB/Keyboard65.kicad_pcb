@@ -44924,14 +44924,15 @@
 			)
 		)
 		(property "Value" "D"
-			(at 0 -2.1 90)
-			(layer "F.Fab")
+			(at 0 -2.1 270)
+			(layer "B.Fab")
 			(uuid "2f467d4d-09bb-4a95-b792-6b5fda034156")
 			(effects
 				(font
 					(size 1 1)
 					(thickness 0.15)
 				)
+				(justify mirror)
 			)
 		)
 		(property "Datasheet" "~"
