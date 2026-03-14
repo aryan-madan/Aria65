@@ -1,16 +1,16 @@
-Category,Part,Brand,Cost (INR),Cost (USD),Link
-Case,3D Printed Case,Printing Legion,—,—,—
-Parts,Plate Mount Stabilizers,Durock,380,~$4.13,https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43129560924213
-Parts,Y2 Switches,Keygeek,2240,~$24.35,https://keyora.store/products/keygeek-y2-linear-switch
-Parts,Gummy-O-Ring Mount,NeoMacro,650,~$7.00,https://neomacro.in/products/neo65-spare-parts-pre-order?variant=46159065415958
-Parts,M2 x 12mm Screws,Generic,—,—,—
-Parts,M2 x 10mm Screws,Generic,—,—,—
-Parts,SUBTOTAL,,3522,~$38.22,
-PCB,Printing,JLCPCB,3403,~$37.00,https://jlcpcb.com/
-PCB,RP 2040 Zero,Robu,235,~$2.55,https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/
-PCB,Hotswap Sockets,Kailh,532,~$5.78,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/
-PCB,Diodes,—,100,~$1.09,https://www.amazon.in/dp/B084ZP5BJ3
-PCB,SUBTOTAL,,4270,~$46.42,
-Decoration,Keycaps,Clones,2000,~$21.74,—
-Decoration,SUBTOTAL,,2000,~$21.74,
-,TOTAL,,9792,~$106.38,
+Category,Part,Brand,Quantity,Cost (INR),Cost (USD),Link
+Case,3D Printed Case,Printing Legion,1,—,—,https://app.shapr3d.com/p/29c12f4c-3f33-421a-806f-35c27462d305
+Parts,Plate Mount Stabilizers,Durock,1 set,380,~$4.13,https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43129560924213
+Parts,Y2 Switches,Keygeek,70,2240,~$24.35,https://keyora.store/products/keygeek-y2-linear-switch
+Parts,Gummy-O-Ring Mount,NeoMacro,1,650,~$7.00,https://neomacro.in/products/neo65-spare-parts-pre-order?variant=46159065415958
+Parts,M2 x 12mm Screws,Generic,2,—,—,—
+Parts,M2 x 10mm Screws,Generic,2,—,—,—
+Parts,SUBTOTAL,,,3522,~$38.22,
+PCB,Printing,JLCPCB,5 (min),3403,~$37.00,https://jlcpcb.com/
+PCB,RP 2040 Zero,Robu,1,235,~$2.55,https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/
+PCB,Hotswap Sockets,Kailh,100 (min),532,~$5.78,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/
+PCB,Diodes,—,100 (min),100,~$1.09,https://www.amazon.in/dp/B084ZP5BJ3
+PCB,SUBTOTAL,,,4270,~$46.42,
+Decoration,Keycaps,Clones,1 set,2000,~$21.74,—
+Decoration,SUBTOTAL,,,2000,~$21.74,
+,TOTAL,,,9792,~$106.38,
