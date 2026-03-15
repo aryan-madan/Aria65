@@ -45,7 +45,8 @@ Total Cost: **9,792** (~$106.38 USD)
 
 ## Case
 
-https://app.shapr3d.com/p/29c12f4c-3f33-421a-806f-35c27462d305
+https://app.shapr3d.com/v/_-Txvu9VtqTR88f_0C18B
+
 To be 3d printed by the Printing Legion.
 
 ## Parts
